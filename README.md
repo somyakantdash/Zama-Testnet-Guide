@@ -46,5 +46,5 @@ There is no confirmed information about a Zama airdrop
 
 2️⃣ Check: https://sosovalue.com/project/zama-1844236762745884673
 
-# DO Task [Check Out](nothing.md)
+# DO Task [Check Out](Developer-Program.md)
 
