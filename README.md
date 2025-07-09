@@ -4,7 +4,7 @@
 Zama based in Paris, France, is an open-source cryptography company focused on Fully Homomorphic Encryption (FHE) and privacy-enhancing technologies. Since joining X in March 2020, their profile actively shares updates on their mission to make advanced cryptography accessible for developers. They build tools like Concrete (an FHE library), tfhe-rs (a Rust-based FHE library), and Zama Blockchain to enable secure, privacy-preserving applications in fields like AI, blockchain, and data processing. Their posts often include product release notes, technical tutorials, and community engagement initiatives, highlighting practical use cases for FHE. Zama emphasizes empowering developers to create applications where data remains encrypted during computation, ensuring user privacy. Their website, zama.ai, provides further details on their tools and vision.
 
 ## Key Features
-Zama (@zama_fhe) develops open-source Fully Homomorphic Encryption (FHE) tools, enabling computations on encrypted data for privacy-preserving applications in blockchain, AI, and more. Below are the key features of their main FHE tools, based on available information
+Zama develops open-source Fully Homomorphic Encryption (FHE) tools, enabling computations on encrypted data for privacy-preserving applications in blockchain, AI, and more. Below are the key features of their main FHE tools, based on available information
 
 1. **TFHE-rs**:
    - **Pure Rust Implementation**: A high-performance library for Fast Fully Homomorphic Encryption over the Torus, supporting Boolean and integer arithmetic on encrypted data.
