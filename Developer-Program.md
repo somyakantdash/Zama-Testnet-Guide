@@ -111,11 +111,7 @@ Run this in terminal:
 npx hardhat run scripts/deploy.js
 ```
 
-Expected output:
-
-```
-Calculator deployed to: 0xAbC...123
-```
+Expected output: ``` Calculator deployed to: 0xAbC...123 ```
 
 That address is your deployed smart contract address.
 
